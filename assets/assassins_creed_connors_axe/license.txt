@@ -1,0 +1,11 @@
+Model Information:
+* title:	Assassin's Creed: Connor's Axe
+* source:	https://sketchfab.com/3d-models/assassins-creed-connors-axe-13589259c8cc470c9e740ac87dbad6f3
+* author:	Gustavo Ribeiro (https://sketchfab.com/Gustavo_Ribeiro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Assassin's Creed: Connor's Axe" (https://sketchfab.com/3d-models/assassins-creed-connors-axe-13589259c8cc470c9e740ac87dbad6f3) by Gustavo Ribeiro (https://sketchfab.com/Gustavo_Ribeiro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

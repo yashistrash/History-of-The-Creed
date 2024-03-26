@@ -1,0 +1,11 @@
+Model Information:
+* title:	Assassins Creed Altair
+* source:	https://sketchfab.com/3d-models/assassins-creed-altair-8e84c4d6c628414d90ec2dfb5e19eb6a
+* author:	milo.melton (https://sketchfab.com/milo.melton)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Assassins Creed Altair" (https://sketchfab.com/3d-models/assassins-creed-altair-8e84c4d6c628414d90ec2dfb5e19eb6a) by milo.melton (https://sketchfab.com/milo.melton) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

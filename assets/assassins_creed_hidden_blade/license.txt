@@ -1,0 +1,11 @@
+Model Information:
+* title:	assassin's hidden blade
+* source:	https://sketchfab.com/3d-models/assassins-hidden-blade-d347151c67b540c282e12328f764dc94
+* author:	Rached.Abdelkhalek (https://sketchfab.com/Rached.Abdelkhalek)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "assassin's hidden blade" (https://sketchfab.com/3d-models/assassins-hidden-blade-d347151c67b540c282e12328f764dc94) by Rached.Abdelkhalek (https://sketchfab.com/Rached.Abdelkhalek) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

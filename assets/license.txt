@@ -1,0 +1,11 @@
+Model Information:
+* title:	Forteresse Royale de Najac (12)
+* source:	https://sketchfab.com/3d-models/forteresse-royale-de-najac-12-781822d8412642fb8228cc5fb2627a7b
+* author:	Archéomatique (https://sketchfab.com/archeomatique)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Forteresse Royale de Najac (12)" (https://sketchfab.com/3d-models/forteresse-royale-de-najac-12-781822d8412642fb8228cc5fb2627a7b) by Archéomatique (https://sketchfab.com/archeomatique) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
